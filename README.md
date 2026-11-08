@@ -28,5 +28,8 @@ Test Case ID : TC-LOGIN-001
 
 Scenario : Login with valid credentials
 
+I am practicing GitHub synchronization.
+
+
 Expected Result:
 The user is redirected to the dashboard
